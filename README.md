@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Moon</h3>
+<h3 align="center">A passionate developer from Moon</h3>
 <p align="left">
 </p>
 
