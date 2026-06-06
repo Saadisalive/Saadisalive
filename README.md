@@ -2,4 +2,4 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
-![Python](https://shields.io)
+<img src="https://jsdelivr.net" alt="python" width="45" height="45"/>
