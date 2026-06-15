@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadisalive&label=Profile%20views&color=0e75b6&style=flat" alt="saadisalive" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadisalive" alt="saadisalive" /></a> </p>
-
-- ⚡ Fun fact **I think i am sleeping**
+- ⚡ Fun fact **i am sleeping**
 <p align="left">
 </p>
 
